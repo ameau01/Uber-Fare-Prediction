@@ -7,3 +7,10 @@ This project aims to evaluate the performance of various machine learning algori
 
 Author: Alexander Meau
 Email: alme9155@colorado.edu
+
+# Project Structure
+
+- project-root/
+  - uber.csv
+  - uber-fare-prediction.ipynb
+  - README.md
