@@ -2,8 +2,7 @@
 
 CSCA-5622 Supervised Machine Learning Final Project
 
-This project aims to evaluate the performance of various machine learning algorithms, including Linear Regression, Random Forest, and Gradient Boosting, when applied to time series data. By adapting supervised learning methods on the Uber fare dataset, this experimental analysis lays the foundation for understanding autoregression, a time series technique to be explored in future projects.
-
+This project aims to predict Uber fares dynamically, adjusting rush hour periods and days of the week. By using adapting supervised learning methods on the Uber fare dataset, this Project analysis takes a cross-sectional approach to fare prediction using auto-regression on a time series dataset.
 
 Author: Alexander Meau
 Email: alme9155@colorado.edu
