@@ -11,5 +11,5 @@ Email: alme9155@colorado.edu
 
 - project-root/
   - uber.csv
-  - uber-fare-prediction.ipynb
+  - uber-fare-prediction-final.ipynb
   - README.md
