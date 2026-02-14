@@ -39,8 +39,6 @@ Uber ride fares vary significantly based on time of day, day of week, pickup/dro
 - Prediction vs Actual scatter plot
 - Error distribution histogram
 
-**Author:** Alexander Meau  
-**Email:** [alme9155@colorado.edu](mailto:alme9155@colorado.edu)  
 
 ## Project Structure
 Uber-Fare-Prediction/
@@ -50,3 +48,6 @@ Uber-Fare-Prediction/
 ├── uber-fare-prediction-final.ipynb  # Complete end-to-end notebook
 
 └── README.md
+
+**Author:** Alexander Meau  
+**Email:** [alme9155@colorado.edu](mailto:alme9155@colorado.edu)  
