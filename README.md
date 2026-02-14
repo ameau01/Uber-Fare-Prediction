@@ -45,6 +45,6 @@ Uber ride fares vary significantly based on time of day, day of week, pickup/dro
 
 ## Project Structure
 Uber-Fare-Prediction/
-├── uber.csv                      # Original dataset (~200k rows)
-├── uber-fare-prediction-final.ipynb  # Complete end-to-end notebook (EDA → modeling → evaluation)
+├── uber.csv      # Original dataset (~200k rows)
+├── uber-fare-prediction-final.ipynb  # Complete end-to-end notebook
 └── README.md
