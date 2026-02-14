@@ -41,7 +41,6 @@ Uber ride fares vary significantly based on time of day, day of week, pickup/dro
 
 **Author:** Alexander Meau  
 **Email:** [alme9155@colorado.edu](mailto:alme9155@colorado.edu)  
-**Portfolio note:** This end-to-end regression project demonstrates proficiency in exploratory data analysis (EDA), feature engineering (including time-based and location features), model selection/comparison, hyperparameter tuning, and performance evaluation on a regression task with business relevance.
 
 ## Project Structure
 Uber-Fare-Prediction/
