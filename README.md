@@ -5,6 +5,10 @@
 
 This project aims to predict Uber fares dynamically, adjusting rush hour periods and days of the week. By using adapting supervised learning methods on the Uber fare dataset, this Project analysis takes a cross-sectional approach to fare prediction using auto-regression on a time series dataset.
 
+- Kaggle Notebook: https://www.kaggle.com/code/alexandermeau/uber-fare-prediction
+- Author: Alexander Meau
+- Email: ameau01@gmail.com, alme9155@colorado.edu
+
 ---
 
 ## Project Overview
