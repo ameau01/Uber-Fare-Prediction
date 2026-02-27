@@ -7,7 +7,7 @@ This project aims to predict Uber fares dynamically, adjusting rush hour periods
 
 - Kaggle Notebook: https://www.kaggle.com/code/alexandermeau/uber-fare-prediction
 - Author: Alexander Meau
-- Email: ameau01@gmail.com, alme9155@colorado.edu
+- Email: ameau01@gmail.com
 
 ---
 
